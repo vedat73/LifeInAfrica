@@ -9,3 +9,7 @@ Following topics covered in this LifeInAfrica App :
 * Extension
 * Mac Catalyst
 * App Main Bunle usage
+
+
+https://github.com/vedat73/LifeInAfrica/assets/32343921/544db8ab-e38d-49f6-abe1-3f012a3c476d
+
